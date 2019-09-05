@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro&display=swap');
+
+body {
+  background-color: #fefefe;
+  color: #333;
+  font-family: 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
+  line-height: 1.4em;
+}
+.container {
+  width: 90%;
+  max-width: 680px;
+  margin: 0 auto;
+}
+.dialog span {
+  color: #888;
+}
+.ending {
+  color: #888;
+}
