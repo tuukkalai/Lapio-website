@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+.bubble {
+  display: inline-block;
+  width: 300px;
+  height: 200px;
+  padding: 30px;
+}
+.red {
+  background-color: #f07474;
+  border: 10px solid #fffd77;
+}
+.yellow {
+  background-color: #fffd77;
+  border: 10px solid #8cf391;
+}
+.green {
+  background-color: #8cf391;
+  border: 10px solid #f07474;
+}
