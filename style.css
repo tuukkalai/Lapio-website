@@ -1,1 +1,12 @@
-p { background-color: red; }
+h1 {
+  color: #3322ee;
+}
+h2, h3, p {
+  color: #b32222;
+}
+ul {
+  color: #ff07b5;
+}
+i {
+  color: #f00;
+}
